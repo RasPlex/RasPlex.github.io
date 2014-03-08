@@ -1,0 +1,77 @@
+/* CONTAINS OVERRIDES FOR BOOTSTRAP.CSS */
+/* MUST BE LAST CSS FILE INCLUDED */
+body {
+	/*padding-top: 60px;*/
+	padding-bottom: 20px;
+        background-color: rgb(52,56,62);
+        -webkit-font-smoothing: antialiased;
+        color: #eee;
+}
+
+.masthead{
+        padding-top: 40px;
+        padding-bottom: 40px;
+}
+
+.dropdown-menu li a{
+        color: #eee;
+}
+
+#content {
+	min-height: 300px;
+}
+
+footer {
+	border-top: 1px solid #101214;
+	margin-top: 15px;
+	padding-top: 5px;
+}
+
+a{
+        color: #FF1C77;
+}
+span.rpi{
+        color: #FF1C77;
+}
+
+span.plex{
+    color: #FF9522
+}
+
+div.pagination {text-align:center;}
+
+div.marketing h1 {
+   margin-top: 20px;
+}
+
+div.marketing h2 {
+   color: #FF9522;
+}
+
+div.marketing {
+   color: inherit;
+}
+
+.navbar .brand {
+    border-right: none;
+}
+
+span.strapline {
+    text-align: center;
+    display: block;
+}
+
+/* save this for later */
+.neverused {
+ color: #FF9522
+ background-color: #202328;
+}
+
+/*.jumbotron {
+        background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.5, #34383E), to(#ff9522));
+        background-image: -moz-linear-gradient(90deg, #34383E 50%, #ff9522 100%);
+}*/
+
+.navbar .nav > li > a{
+  color: #FF9522;
+}
