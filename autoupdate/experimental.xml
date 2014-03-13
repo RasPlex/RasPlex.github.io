@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MediaContainer friendlyName="myPlex" identifier="com.plexapp.plugins.myplex" size="2" title="Updates">
-  <Release id="1" version="9.9.20.rc1" added="" fixed="" live="true" autoupdate="true" createdAt="2013-12-13 11:41:58 UTC">
-    <Package manifest="/updater/packages/297/manifest" manifestHash="dfedc205f7fc8386d2298ef39b17e9f376ccf3aa" file="https://github.com/RasPlex/RasPlex/releases/download/9.9.20/rasplex-RPi.arm-9.9.20.tar" fileHash="eb71b74c64151c337cf32c17b0e40ac53a728870" fileName="rasplex-RPi.arm-9.9.20.tar" delta="false"/>
+  <Release id="1" version="9.9.20" added="" fixed="" live="true" autoupdate="true" createdAt="2013-12-13 11:41:58 UTC">
+    <Package file="https://github.com/RasPlex/RasPlex/releases/download/9.9.20/rasplex-RPi.arm-9.9.20.tar" fileHash="eb71b74c64151c337cf32c17b0e40ac53a728870" fileName="rasplex-RPi.arm-9.9.20.tar" delta="false"/>
   </Release>
 </MediaContainer>
