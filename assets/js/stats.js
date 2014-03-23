@@ -1,5 +1,3 @@
-
-
 function draw_users(users)
 {
   labels = [];
@@ -11,6 +9,10 @@ function draw_users(users)
   });
   labels = labels.reverse();
   data = data.reverse();
+
+  max = Math.max.apply(Math, data);
+  steps = 20;
+  width = Math.ceil(((max*1.1)/20)/100)*100
 
   var plot = {
     labels : labels,
@@ -27,7 +29,13 @@ function draw_users(users)
 
   }
 
-  var options = {scaleFontColor : "#FFF", scaleGridLineColor : "#FFF"}
+  var options = {scaleFontColor : "#FFF", 
+                 scaleGridLineColor : "#FFF", 
+                 scaleOverride : true,
+                 scaleSteps : steps,
+                 scaleStepWidth : width,
+                 scaleStartValue : 0}
+
   var users = $("#users").get(0).getContext("2d");
   new Chart(users).Line(plot, options);
   legend(document.getElementById("usersLegend"), plot);
@@ -83,7 +91,6 @@ function draw_installs(installs)
     ]
 
   }
-
   var options = {scaleFontColor : "#FFF", scaleGridLineColor : "#FFF"}
   var users = $("#installs").get(0).getContext("2d");
   new Chart(users).Line(plot, options);
@@ -125,11 +132,9 @@ function main(data)
 
 }
 
-$.ajax({
-  url: "http://updater.rasplex.com/json/stats",
-  context: document.body,
-  crossDomain: true
-}).done(function(data) {
-  result =jQuery.parseJSON( data );
-  main(result);
+
+$.getJSON('http://updater.rasplex.com/json/stats', function(json) { 
+  main(json);
 });
+
+

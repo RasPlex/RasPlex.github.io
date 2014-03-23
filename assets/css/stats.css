@@ -17,15 +17,12 @@ body {
   color: #eee;
 }
 
-h2 {
-  color: #FF9522;
-}
 
 .container
 {
   width:1170px;
 }
 
-.marketing {
+.stats {
   text-align: center;
 }
