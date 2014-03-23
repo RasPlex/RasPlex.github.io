@@ -126,7 +126,7 @@ function main(data)
 }
 
 $.ajax({
-  url: "/json/stats",
+  url: "http://updater.rasplex.com/json/stats",
   context: document.body,
   crossDomain: true
 }).done(function(data) {
