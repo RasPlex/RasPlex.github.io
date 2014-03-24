@@ -30,7 +30,7 @@ function draw_users(users)
   }
 
   var options = {scaleFontColor : "#FFF", 
-                 scaleGridLineColor : "#FFF"}, 
+                 scaleGridLineColor : "#FFF", 
                  scaleOverride : true,
                  scaleSteps : steps,
                  scaleStepWidth : width,
