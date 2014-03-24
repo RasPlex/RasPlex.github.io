@@ -50,10 +50,12 @@ function draw_installs(installs)
   unknown = [];
 
   $.each(installs.days_ago, function(k,v) {
-    labels.push(k+" days ago")
-    windows.push(v.windows);
-    linux.push(v.linux);
-    osx.push(v.osx);
+    if (!jQuery.isEmptyObject(v)) {
+      labels.push(k+" days ago")
+      windows.push(v.windows);
+      linux.push(v.linux);
+      osx.push(v.osx);
+    }
   });
   labels  = labels.reverse();
   windows = windows.reverse();
