@@ -30,11 +30,11 @@ function draw_users(users)
   }
 
   var options = {scaleFontColor : "#FFF", 
-                 scaleGridLineColor : "#FFF", 
+                 scaleGridLineColor : "#FFF"}/*, 
                  scaleOverride : true,
                  scaleSteps : steps,
                  scaleStepWidth : width,
-                 scaleStartValue : 0}
+                 scaleStartValue : 0}*/
 
   var users = $("#users").get(0).getContext("2d");
   new Chart(users).Line(plot, options);
