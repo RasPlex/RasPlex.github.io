@@ -12,7 +12,7 @@ function draw_users(users)
 
   max = Math.max.apply(Math, data);
   steps = 20;
-  width = Math.ceil(((max*1.1)/20)/100)*100
+  width = Math.ceil(((max*1.1)/20)/50)*50
 
   var plot = {
     labels : labels,
