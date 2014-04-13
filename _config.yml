@@ -1,0 +1,73 @@
+title:            Dale's Tech and etc. blog 
+description:      Are you a good user? Or a bad user?
+disqus_shortname: 
+#Your site's domain goes here. Leave localhost server or blank when working locally.
+url:              http://dalehamel.github.io
+
+# Owner/author information
+owner:
+  name:           Dale Hamel
+  avatar:         avatar.jpg
+  bio:            "I'm an Opsguy at Shopify, and the creator and maintainer of RasPlex. I love hacking, death metal, and folk music."
+  email:          dale.hamel@srvthe.net
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        dalehamel
+  facebook:       
+  github:         dalehamel
+  stackexchange:  
+  linkedin:       http://www.linkedin.com/pub/dale-hamel/34/45b/6b9
+  instagram:      
+  flickr:         
+  tumblr:         
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:   
+
+# Background image to be tiled on all pages
+background: 
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   UA-38338516-1
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:         
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+#  - title: Blah
+#    url: blah
+  - title: RasPlex
+    url: http://www.rasplex.com
+    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/New_York
+future:      true
+pygments:    true
+markdown:    kramdown
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+# Amount of post to show on home page
+paginate: 5
+
+gems:
+  - jekyll-redirect-from
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: true
+
+  coderay:
+    coderay_line_numbers: nil
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "doc"]
