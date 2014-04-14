@@ -22,7 +22,7 @@ description: "How to setup RasPlex"
     <div class="span4">
       <h2>Step 3: Enjoy</h2>
       <a href="http://www.youtube.com/watch?v=S-9USnW-aOc" target="_blank"><img class="oslogo" src="../images/plex-screen.png" alt="" /></a>
-      <p>You'll have now turned every TV in your home into a Smart TV. Enjoy streaming your Music, Movies, and TV shows, as well as Apple Airplay. Soon you can look forward to Plex Channels and Retro console games too!</p>
+      <p>You'll have now turned every TV in your home into a Smart TV. Enjoy streaming your Music, Movies, and TV shows, as well as Apple Airplay.</p>
     </div>
   </div>
 </div>
