@@ -14,9 +14,17 @@
 <script src="../assets/components/themebootstrap/js/bootstrap.min.js" type="text/javascript"></script>
 <script src="../assets/components/themebootstrap/js/main.js" type="text/javascript"></script>
 
+
 <!-- Here you can change your default template: just add the name of the folder where others template are,
 for example: href="/assets/components/themebootstrap/css/cerulean/bootstrap.min.css" - cerulean template. -->
 <link href="../assets/components/themebootstrap/css/slate/bootstrap.min.css" rel="stylesheet">
+
+<link href="../assets/css/stats.css" rel="stylesheet" type="text/css">
+<script src="../assets/js/Chart.js"></script>
+<script src="../assets/js/legend.js"></script>
+<script src="../assets/js/jquery-2.1.0.min.js"></script>
+
+
 <link href="../assets/css/docs.css" rel="stylesheet">
 <link href="../assets/css/main.css" rel="stylesheet">
 <link href="../assets/components/themebootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
@@ -229,38 +237,35 @@ _gaq.push(['_trackPageview']);
 
 
 <div class="container">
-  
-
   <div id="content" class="main">
-    <h1>RasPlex Setup Basics</h1>
-    <div class="container">
-      <div class="marketing">
-        <div class="row-fluid">
-          <div class="span4">
-            <h2>Step 1: Setup Plex</h2>
-            <a href="http://plexapp.com/getplex/" target="_blank"><img class="oslogo" src="../images/pms.png" alt="" /></a>
-            <p><a href="http://plexapp.com/getplex/">Plex Media Server</a> is required to be installed on your home computer in order to use RasPlex.</p>
-            <p>It will organize your media on your computer for you, automatically get stuff like Movie posters, actors, episode descrptions - you name it! While you're at it, set up some plex channels and a myPlex account. </p>
-            <p>It is closed source, but free to use. Please consider <a href="https://my.plexapp.com/subscription/about" target="_blank"> purchasing a PlexPass </a> to support <a href="http://www.plexapp.com/" target="_blank"> Plex Inc</a>.</p>
-          </div>
-          <div class="span4">
-            <h2>Step 2: Setup RasPlex</h2>
-            <a href="../get-started/rasplex-installers.html" target="_blank"><img class="oslogo" src="../images/getrasplex.png" alt="" /></a>
-            <p>Follow the steps to <a href="../get-started/rasplex-installers.html">get RasPlex</a>, and set up a RasPlex box on every TV in your home. At the meager cost of a Raspberry Pi, why not get some for your friends and family to share all of your media!</p>
-            <p><strong>Please note:</strong> the first run of RasPlex will always be the slowest, and RasPlex performs better on 512MB Raspberry Pi's than on 256MB. To speed things up, you should manually force caching as described in <a href="faq.html">the FAQ</a></p>
-          </div>
-          <div class="span4">
-            <h2>Step 3: Enjoy</h2>
-            <a href="http://www.youtube.com/watch?v=S-9USnW-aOc" target="_blank"><img class="oslogo" src="../images/plex-screen.png" alt="" /></a>
-            <p>You'll have now turned every TV in your home into a Smart TV. Enjoy streaming your Music, Movies, and TV shows, as well as Apple Airplay. Soon you can look forward to Plex Channels and Retro console games too!</p>
-          </div>
-        </div>
-      </div>
+    <h1 class="center"> RasPlex Setup Basics </h1>
+    <div class="container-fluid">
+        <div class="marketing">
+  <div class="row-fluid">
+    <div class="span4">
+      <h2>Step 1: Setup Plex</h2>
+      <a href="http://plexapp.com/getplex/" target="_blank"><img class="oslogo" src="../images/pms.png" alt="" /></a>
+      <p><a href="http://plexapp.com/getplex/">Plex Media Server</a> is required to be installed on your home computer in order to use RasPlex.</p>
+      <p>It will organize your media on your computer for you, automatically get stuff like Movie posters, actors, episode descrptions - you name it! While you're at it, set up some plex channels and a myPlex account. </p>
+      <p>It is closed source, but free to use. Please consider <a href="https://my.plexapp.com/subscription/about" target="_blank"> purchasing a PlexPass </a> to support <a href="http://www.plexapp.com/" target="_blank"> Plex Inc</a>.</p>
+    </div>
+    <div class="span4">
+      <h2>Step 2: Setup RasPlex</h2>
+      <a href="../get-started/rasplex-installers.html" target="_blank"><img class="oslogo" src="../images/getrasplex.png" alt="" /></a>
+      <p>Follow the steps to <a href="../get-started/rasplex-installers.html">get RasPlex</a>, and set up a RasPlex box on every TV in your home. At the meager cost of a Raspberry Pi, why not get some for your friends and family to share all of your media!</p>
+      <p><strong>Please note:</strong> the first run of RasPlex will always be the slowest, and RasPlex performs better on 512MB Raspberry Pi's than on 256MB. To speed things up, you should manually force caching as described in <a href="faq.html">the FAQ</a></p>
+    </div>
+    <div class="span4">
+      <h2>Step 3: Enjoy</h2>
+      <a href="http://www.youtube.com/watch?v=S-9USnW-aOc" target="_blank"><img class="oslogo" src="../images/plex-screen.png" alt="" /></a>
+      <p>You'll have now turned every TV in your home into a Smart TV. Enjoy streaming your Music, Movies, and TV shows, as well as Apple Airplay. Soon you can look forward to Plex Channels and Retro console games too!</p>
     </div>
   </div>
 </div>
 
-
+    </div>
+  </div>
+</div>
 
 <footer>
   <div class="container">
@@ -312,8 +317,8 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </footer>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="http://dalehamel.github.io/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-<script src="http://dalehamel.github.io/assets/js/scripts.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://www.rasplex.com/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://www.rasplex.com/assets/js/scripts.min.js"></script>
 
 <!-- Asynchronous Google Analytics snippet -->
 <script>
@@ -321,7 +326,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
   var pluginUrl = 
  '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
   _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-  _gaq.push(['_setAccount', 'UA-38338516-1']);
+  _gaq.push(['_setAccount', 'UA-38835045-1']);
   _gaq.push(['_trackPageview']);
 
   (function() {

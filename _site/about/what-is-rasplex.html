@@ -14,9 +14,17 @@
 <script src="../assets/components/themebootstrap/js/bootstrap.min.js" type="text/javascript"></script>
 <script src="../assets/components/themebootstrap/js/main.js" type="text/javascript"></script>
 
+
 <!-- Here you can change your default template: just add the name of the folder where others template are,
 for example: href="/assets/components/themebootstrap/css/cerulean/bootstrap.min.css" - cerulean template. -->
 <link href="../assets/components/themebootstrap/css/slate/bootstrap.min.css" rel="stylesheet">
+
+<link href="../assets/css/stats.css" rel="stylesheet" type="text/css">
+<script src="../assets/js/Chart.js"></script>
+<script src="../assets/js/legend.js"></script>
+<script src="../assets/js/jquery-2.1.0.min.js"></script>
+
+
 <link href="../assets/css/docs.css" rel="stylesheet">
 <link href="../assets/css/main.css" rel="stylesheet">
 <link href="../assets/components/themebootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
@@ -229,32 +237,24 @@ _gaq.push(['_trackPageview']);
 
 
 <div class="container">
-  
-
   <div id="content" class="main">
-    <h1>What is RasPlex?</h1>
+    <h1 class="center"> What is RasPlex </h1>
     <div class="container-fluid">
-      <div class="row-fluid">
-        <div class="span2"> </div>
-        <div class="span10">
-          <h1>RasPlex is an Entertainment Center Solution for Raspberry Pi</h1>
-          <div class="offset1">
-            Simply put, RasPlex lets you turn your TV into a Smart TV. Similar to the AppleTV, but completely free and open source, RasPlex is basically a set-top box. Once RasPlex is stable, it will have support for legacy console game emulation (NES, SNES, etc), as well as Plex Channels (Netflix, Crackle, Youtube, etc).
-          </div>
-          <h2>RasPlex is a Plex Home Theater Client</h2>
-          <div class="offset1">
-            More technically stated, RasPlex is a complete port of Plex Home Theater (formerly Plex Media Center) for Raspberry Pi. RasPlex currently runs on OpenELEC for reasons of limited man power, but there is a working raspbian port that just needs some time to be brought up to speed. RasPlex was created on Gentoo linux, but that port has since been abandoned for performance reasons. We regularly merge in changes from Plex Home Theater and OpenELEC. Once things cool off a bit and we are more stable (or we get the man power), we will maintain a raspbian release as well.
-          </div>
-          <h2>RasPlex is the Perfect Companion to a Plex Media Server</h2>
-          <div class="offset1">
-            Many people will use expensive computers as Plex Clients, or have to go through the inconvenient of plugging a computer in to their TV every time they want to use Plex. With RasPlex, just plug it in and you're media is always ready. Put one on every TV, and have your media everywhere! You can even put RasPlex on your friend's TV's, and watch your media remotely.</div>
-        </div>
-      </div>
+        <h1 id="rasplex-is-an-entertainment-center-solution-for-raspberry-pi">RasPlex is an Entertainment Center Solution for Raspberry Pi</h1>
+
+<p>Simply put, RasPlex lets you turn your TV into a Smart TV. Similar to the AppleTV, but completely free and open source, RasPlex is basically a set-top box that lets you play content from your computer or smartphone to your TV.</p>
+
+<h2 id="rasplex-is-a-plex-home-theater-client">RasPlex is a Plex Home Theater Client</h2>
+
+<p>More technically stated, RasPlex is a complete port of Plex Home Theater (formerly Plex Media Center) for Raspberry Pi. RasPlex currently runs on OpenELEC for reasons of limited man power, but there is a working raspbian port that just needs some time to be brought up to speed. RasPlex was created on Gentoo linux, but that port has since been abandoned for performance reasons. We regularly merge in changes from Plex Home Theater and OpenELEC. Once things cool off a bit and we are more stable (or we get the man power), we will maintain a raspbian release as well.</p>
+
+<h2 id="rasplex-is-the-perfect-companion-to-a-plex-media-server">RasPlex is the Perfect Companion to a Plex Media Server</h2>
+
+<p>Many people will use expensive computers as Plex Clients, or have to go through the inconvenient of plugging a computer in to their TV every time they want to use Plex. With RasPlex, just plug it in and you’re media is always ready. Put one on every TV, and have your media everywhere! You can even put RasPlex on your friend’s TV’s, and watch your media remotely.</p>
+
     </div>
   </div>
 </div>
-
-
 
 <footer>
   <div class="container">
@@ -306,8 +306,8 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </footer>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="http://dalehamel.github.io/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-<script src="http://dalehamel.github.io/assets/js/scripts.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://www.rasplex.com/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://www.rasplex.com/assets/js/scripts.min.js"></script>
 
 <!-- Asynchronous Google Analytics snippet -->
 <script>
@@ -315,7 +315,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
   var pluginUrl = 
  '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
   _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-  _gaq.push(['_setAccount', 'UA-38338516-1']);
+  _gaq.push(['_setAccount', 'UA-38835045-1']);
   _gaq.push(['_trackPageview']);
 
   (function() {

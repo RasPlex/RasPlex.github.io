@@ -1,66 +1,55 @@
 ---
 layout: page 
-title: 
-description: "Describe this nonsense."
-tags: [Jekyll, theme, themes, responsive, blog, modern]
-image:
-feature: abstract-1.jpg
-credit: dargadgetz
-creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+title:  Contributors
+description: "Folks who have contributed to RasPlex"
 ---
 
-<div class="container">
-  
+## Project Lead / Creator
 
-  <div id="content" class="main">
-    <h1>Contributor List</h1>
-    <div class="container-fluid">
-      <div class="row-fluid">
-        <div class="span2"> </div>
-        <div class="span10">
-          <h2>Project Lead / Creator</h2>
-          <ul>
-            <li><a href="http://blog.srvthe.net" target="_blank">Dale hamel</a> - void_ptr</li>
-          </ul>
-          <h2>RasPlex Core Team</h2>
-          <p>These guys are the unsung heros of RasPlex. They deserve your praise, as they work insanely hard to make RasPlex better</p>
-          <p>If you see them in chat or on the forums, please take a moment to thank them for their hard work.</p>
-          <ul>
-            <li>Andreas Weinlein - a_wein</li>
-            <li>Robert Buhren - weelkin</li>
-            <li>Lionel Chazallon - LongChair</li>
-          </ul>
-          <h2>RasPlex Hackers</h2>
-          <ul>
-            <li><a href="http://www.linkedin.com/pub/patrik-dahlstr%C3%B6m/20/763/3b7" target="_blank">Patrik Dahlström</a> - Risca</li>
-            <li>Jason Hayes - jasonhayes</li>
-            <li>James Booker - jbooker</li>
-            <li>Marc Massey - ElMassman</li>
-            <li>Anil Daoud - anild</li>
-            <li>Jay Smith - jsmith</li>
-          </ul>
-          <h2>RasPlex Community</h2>
-          <ul>
-            <li>Everyone who has tried RasPlex</li>
-            <li>Everyone on the <a href="http://forums.plexapp.com/index.php/forum/126-rasplex/" target="_blank">RasPlex forums</a></li>
-            <li>Everyone in the <a href="http://chat.srvthe.net/" target="_blank">RasPlex chat</a></li>
-            <li>Our donors! You know who you are : )</li>
-          </ul>
-          <h2>Special Thanks</h2>
-          <ul>
-            <li><a href="http://openelec.tv/" target="_blank">The entire OpenELEC team</a> - For the platform that RasPlex runs on</li>
-            <li><a href="http://xbmc.org/" target="_blank"> The entire XBMC team </a>- For their hard work porting XBMC to the Raspberry Pi</li>
-            <li>Tobias Hieta - For maintaining PlexHT</li>
-            <li><a href="http://elan.plexapp.com/" target="_blank">Elan Feingold</a> - For creating Plex</li>
-            <li>GEWalker - For creating plex-linux</li>
-            <li>Andrew Winton - For the help designing the RasPlex case</li>
-            <li><a href="http://fabbaloo.com/" target="_blank"> Kerry Stevenson</a> - For volunteering his time and resources at AssentWorks</li>
-            <li>Justin Ross (rootyb) - For the new logo and splash art!</li>
-            <li><a href="http://www.raspbmc.com/" target="_blank">Sam Nazarko</a> - For the Raspbmc patches</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+<a href="http://blog.srvthe.net" target="_blank">Dale hamel</a> - void_ptr
 
+## LongChair
+
+Lionel "LongChair" Chazallon deserves a special mention.
+
+LongChair was the first community member to join the RasPlex support channel. He started out as a tester, but since then his knowledge of Git, Linux, and the XBMC / Plex core code has grown to a staggering degree. He's been responsible for many performance tweaks, and has provided a great deal of leadership to the project. While other devs have come and gone, LongChair has always been around - staying up to insane hours of the night - tweaking performance and shaving off a few seconds here and there to get the GUI to be as fast as it is.
+
+You'll probably see LongChair on the forums, in live chat, or triaging Github Issues. If you do, make sure to thank him for all his hard work!
+
+## RasPlex Core Team
+
+these guys are the unsung heros of RasPlex. They deserve your praise, as they work insanely hard to make RasPlex better.
+
+If you see them in chat or on the forums, please take a moment to thank them for their hard work.
+
++ Andreas Weinlein - a_wein
++ Robert Buhren - weelkin
+
+
+## RasPlex Hackers
+
++ <a href="http://www.linkedin.com/pub/patrik-dahlstr%C3%B6m/20/763/3b7" target="_blank">Patrik Dahlström</a> - Risca
++ Jason Hayes - jasonhayes
++ James Booker - jbooker
++ Marc Massey - ElMassman
++ Anil Daoud - anild
++ Jay Smith - jsmith
+
+## RasPlex Community
+
++ Everyone who has tried RasPlex
++ Everyone on the <a href="http://forums.plexapp.com/index.php/forum/126-rasplex/" target="_blank">RasPlex forums</a>
++ Everyone in the <a href="http://chat.srvthe.net/" target="_blank">RasPlex chat</a>
++ Our donors! You know who you are : )
+
+## Special Thanks
+
++ <a href="http://openelec.tv/" target="_blank">The entire OpenELEC team</a> - For the platform that RasPlex runs on
++ <a href="http://xbmc.org/" target="_blank"> The entire XBMC team </a>- For their hard work porting XBMC to the Raspberry Pi.
++ Tobias Hieta - For maintaining PlexHT
++ <a href="http://elan.plexapp.com/" target="_blank">Elan Feingold</a> - For creating Plex.
++ GEWalker - For creating plex-linux
++ Andrew Winton - For the help designing the RasPlex case.
++ <a href="http://fabbaloo.com/" target="_blank"> Kerry Stevenson</a> - For volunteering his time and resources at AssentWorks.
++ Justin Ross (rootyb) - For the new logo and splash art!
++ <a href="http://www.raspbmc.com/" target="_blank">Sam Nazarko</a> - For the Raspbmc patches

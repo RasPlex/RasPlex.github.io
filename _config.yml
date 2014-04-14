@@ -1,8 +1,8 @@
-title:            Dale's Tech and etc. blog 
-description:      Are you a good user? Or a bad user?
+title:            RasPlex 
+description:      Unofficial Plex Home Theater Port for the Raspberry Pi 
 disqus_shortname: 
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://dalehamel.github.io
+url:              http://www.rasplex.com
 
 owner:
   name:           Dale Hamel

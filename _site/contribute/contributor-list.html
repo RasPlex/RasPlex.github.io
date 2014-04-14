@@ -14,9 +14,17 @@
 <script src="../assets/components/themebootstrap/js/bootstrap.min.js" type="text/javascript"></script>
 <script src="../assets/components/themebootstrap/js/main.js" type="text/javascript"></script>
 
+
 <!-- Here you can change your default template: just add the name of the folder where others template are,
 for example: href="/assets/components/themebootstrap/css/cerulean/bootstrap.min.css" - cerulean template. -->
 <link href="../assets/components/themebootstrap/css/slate/bootstrap.min.css" rel="stylesheet">
+
+<link href="../assets/css/stats.css" rel="stylesheet" type="text/css">
+<script src="../assets/js/Chart.js"></script>
+<script src="../assets/js/legend.js"></script>
+<script src="../assets/js/jquery-2.1.0.min.js"></script>
+
+
 <link href="../assets/css/docs.css" rel="stylesheet">
 <link href="../assets/css/main.css" rel="stylesheet">
 <link href="../assets/components/themebootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
@@ -229,61 +237,69 @@ _gaq.push(['_trackPageview']);
 
 
 <div class="container">
-  
-
   <div id="content" class="main">
-    <h1>Contributor List</h1>
+    <h1 class="center"> Contributors </h1>
     <div class="container-fluid">
-      <div class="row-fluid">
-        <div class="span2"> </div>
-        <div class="span10">
-          <h2>Project Lead / Creator</h2>
-          <ul>
-            <li><a href="http://blog.srvthe.net" target="_blank">Dale hamel</a> - void_ptr</li>
-          </ul>
-          <h2>RasPlex Core Team</h2>
-          <p>These guys are the unsung heros of RasPlex. They deserve your praise, as they work insanely hard to make RasPlex better</p>
-          <p>If you see them in chat or on the forums, please take a moment to thank them for their hard work.</p>
-          <ul>
-            <li>Andreas Weinlein - a_wein</li>
-            <li>Robert Buhren - weelkin</li>
-            <li>Lionel Chazallon - LongChair</li>
-          </ul>
-          <h2>RasPlex Hackers</h2>
-          <ul>
-            <li><a href="http://www.linkedin.com/pub/patrik-dahlstr%C3%B6m/20/763/3b7" target="_blank">Patrik Dahlström</a> - Risca</li>
-            <li>Jason Hayes - jasonhayes</li>
-            <li>James Booker - jbooker</li>
-            <li>Marc Massey - ElMassman</li>
-            <li>Anil Daoud - anild</li>
-            <li>Jay Smith - jsmith</li>
-          </ul>
-          <h2>RasPlex Community</h2>
-          <ul>
-            <li>Everyone who has tried RasPlex</li>
-            <li>Everyone on the <a href="http://forums.plexapp.com/index.php/forum/126-rasplex/" target="_blank">RasPlex forums</a></li>
-            <li>Everyone in the <a href="http://chat.srvthe.net/" target="_blank">RasPlex chat</a></li>
-            <li>Our donors! You know who you are : )</li>
-          </ul>
-          <h2>Special Thanks</h2>
-          <ul>
-            <li><a href="http://openelec.tv/" target="_blank">The entire OpenELEC team</a> - For the platform that RasPlex runs on</li>
-            <li><a href="http://xbmc.org/" target="_blank"> The entire XBMC team </a>- For their hard work porting XBMC to the Raspberry Pi</li>
-            <li>Tobias Hieta - For maintaining PlexHT</li>
-            <li><a href="http://elan.plexapp.com/" target="_blank">Elan Feingold</a> - For creating Plex</li>
-            <li>GEWalker - For creating plex-linux</li>
-            <li>Andrew Winton - For the help designing the RasPlex case</li>
-            <li><a href="http://fabbaloo.com/" target="_blank"> Kerry Stevenson</a> - For volunteering his time and resources at AssentWorks</li>
-            <li>Justin Ross (rootyb) - For the new logo and splash art!</li>
-            <li><a href="http://www.raspbmc.com/" target="_blank">Sam Nazarko</a> - For the Raspbmc patches</li>
-          </ul>
-        </div>
-      </div>
+        <h2 id="project-lead--creator">Project Lead / Creator</h2>
+
+<p><a href="http://blog.srvthe.net" target="_blank">Dale hamel</a> - void_ptr</p>
+
+<h2 id="longchair">LongChair</h2>
+
+<p>Lionel “LongChair” Chazallon deserves a special mention.</p>
+
+<p>LongChair was the first community member to join the RasPlex support channel. He started out as a tester, but since then his knowledge of Git, Linux, and the XBMC / Plex core code has grown to a staggering degree. He’s been responsible for many performance tweaks, and has provided a great deal of leadership to the project. While other devs have come and gone, LongChair has always been around - staying up to insane hours of the night - tweaking performance and shaving off a few seconds here and there to get the GUI to be as fast as it is.</p>
+
+<p>You’ll probably see LongChair on the forums, in live chat, or triaging Github Issues. If you do, make sure to thank him for all his hard work!</p>
+
+<h2 id="rasplex-core-team">RasPlex Core Team</h2>
+
+<p>these guys are the unsung heros of RasPlex. They deserve your praise, as they work insanely hard to make RasPlex better.</p>
+
+<p>If you see them in chat or on the forums, please take a moment to thank them for their hard work.</p>
+
+<ul>
+  <li>Andreas Weinlein - a_wein</li>
+  <li>Robert Buhren - weelkin</li>
+</ul>
+
+<h2 id="rasplex-hackers">RasPlex Hackers</h2>
+
+<ul>
+  <li><a href="http://www.linkedin.com/pub/patrik-dahlstr%C3%B6m/20/763/3b7" target="_blank">Patrik Dahlström</a> - Risca</li>
+  <li>Jason Hayes - jasonhayes</li>
+  <li>James Booker - jbooker</li>
+  <li>Marc Massey - ElMassman</li>
+  <li>Anil Daoud - anild</li>
+  <li>Jay Smith - jsmith</li>
+</ul>
+
+<h2 id="rasplex-community">RasPlex Community</h2>
+
+<ul>
+  <li>Everyone who has tried RasPlex</li>
+  <li>Everyone on the <a href="http://forums.plexapp.com/index.php/forum/126-rasplex/" target="_blank">RasPlex forums</a></li>
+  <li>Everyone in the <a href="http://chat.srvthe.net/" target="_blank">RasPlex chat</a></li>
+  <li>Our donors! You know who you are : )</li>
+</ul>
+
+<h2 id="special-thanks">Special Thanks</h2>
+
+<ul>
+  <li><a href="http://openelec.tv/" target="_blank">The entire OpenELEC team</a> - For the platform that RasPlex runs on</li>
+  <li><a href="http://xbmc.org/" target="_blank"> The entire XBMC team </a>- For their hard work porting XBMC to the Raspberry Pi.</li>
+  <li>Tobias Hieta - For maintaining PlexHT</li>
+  <li><a href="http://elan.plexapp.com/" target="_blank">Elan Feingold</a> - For creating Plex.</li>
+  <li>GEWalker - For creating plex-linux</li>
+  <li>Andrew Winton - For the help designing the RasPlex case.</li>
+  <li><a href="http://fabbaloo.com/" target="_blank"> Kerry Stevenson</a> - For volunteering his time and resources at AssentWorks.</li>
+  <li>Justin Ross (rootyb) - For the new logo and splash art!</li>
+  <li><a href="http://www.raspbmc.com/" target="_blank">Sam Nazarko</a> - For the Raspbmc patches</li>
+</ul>
+
     </div>
   </div>
 </div>
-
-
 
 <footer>
   <div class="container">
@@ -335,8 +351,8 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </footer>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="http://dalehamel.github.io/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-<script src="http://dalehamel.github.io/assets/js/scripts.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://www.rasplex.com/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://www.rasplex.com/assets/js/scripts.min.js"></script>
 
 <!-- Asynchronous Google Analytics snippet -->
 <script>
@@ -344,7 +360,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
   var pluginUrl = 
  '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
   _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-  _gaq.push(['_setAccount', 'UA-38338516-1']);
+  _gaq.push(['_setAccount', 'UA-38835045-1']);
   _gaq.push(['_trackPageview']);
 
   (function() {

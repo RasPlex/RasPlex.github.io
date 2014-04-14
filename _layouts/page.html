@@ -10,7 +10,14 @@
 {% include browser-upgrade.html %}
 {% include navigation.html %}
 
-{{ content }}
+<div class="container">
+  <div id="content" class="main">
+    <h1 class="center"> {{ page.title }} </h1>
+    <div class="container-fluid">
+        {{ content }}
+    </div>
+  </div>
+</div>
 
 <footer>
   {% include footer.html %}
