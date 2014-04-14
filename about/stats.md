@@ -24,3 +24,5 @@ redirect_from:
     <div id="platformLegend"></div>
   </div>
 </div>
+
+<script src="../assets/js/legend.js"></script>
