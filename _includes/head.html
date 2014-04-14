@@ -1,5 +1,7 @@
 <base href="" />
-<title>Our Mission - RasPlex</title>
+<title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+{% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
 <meta name="description" content="RasPlex is the community driven Plex client for the Raspberry Pi mini-computer. It is fully Open Source, and is the easiest way to turn any TV into a SmartTV.">
 <meta name="keywords" content="plex,raspberry pi, plex on raspberry pi, rasplex, XBMC, xbmc, XBMC on raspberry pi, htpc, htpc raspberry pi, linux">
 <meta charset="UTF-8" />

@@ -25,12 +25,16 @@ creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5
 <div class="well">
   <div class="row-fluid">
     <span class="strapline">
-      <a href="https://github.com/RasPlex/RasPlex/releases" target="_blank">Latest release notes</a> - get it <a href="get-started/rasplex-installers.html">here</a></br>
-      
-      Youtube Videos of latest  <a href="https://www.youtube.com/watch?v=C-A4Kxq3V0I" target="_blank"> RasPlex 0.4.0-rc3 released </a> </br>
-      
+      <div >  
+        {% assign post = site.posts.first %}
+        {% assign content = post.content %}
+        {% if post.title %}
+           Check out our Latest Post <a href="{{ root_url }}{{ post.url }}">"{{ post.title }}"</a>
+        {% endif %}
+      </div>
+      Read the latest <a href="https://github.com/RasPlex/RasPlex/releases" target="_blank">Latest release notes</a> - and grab it <a href="get-started/rasplex-installers.html">here</a></br>
+      Watch our latest Youtube video for<a href="https://www.youtube.com/watch?v=C-A4Kxq3V0I" target="_blank"> RasPlex 0.4.0-rc3</a> </br>
     </div>
-    
   </div>
   <div class="container">
     <div class="marketing">
