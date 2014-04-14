@@ -34,6 +34,7 @@ If you see them in chat or on the forums, please take a moment to thank them for
 + Marc Massey - ElMassman
 + Anil Daoud - anild
 + Jay Smith - jsmith
++ Guy Westbrook - guyldn
 
 ## RasPlex Community
 
