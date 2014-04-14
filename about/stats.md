@@ -7,7 +7,7 @@ redirect_from:
 
 ---
 
-<link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <script src="/assets/js/stats.js"></script>
 
 <div class="row marketing">

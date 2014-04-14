@@ -29,8 +29,8 @@ function draw_users(users)
 
   }
 
-  var options = {scaleFontColor : "#FFF", 
-                 scaleGridLineColor : "#FFF", 
+  var options = {scaleFontColor : "#FF9522", 
+                 scaleGridLineColor : "#FF9522", 
                  scaleOverride : true,
                  scaleSteps : steps,
                  scaleStepWidth : width,
@@ -93,7 +93,7 @@ function draw_installs(installs)
     ]
 
   }
-  var options = {scaleFontColor : "#FFF", scaleGridLineColor : "#FFF"}
+  var options = {scaleFontColor : "#FF9522", scaleGridLineColor : "#FF9522"}
   var users = $("#installs").get(0).getContext("2d");
   new Chart(users).Line(plot, options);
   legend(document.getElementById("installLegend"), plot);
@@ -118,7 +118,7 @@ function draw_installs(installs)
   ]
 
 
-  var options = {scaleFontColor : "#FFF", scaleGridLineColor : "#FFF"}
+  var options = {scaleFontColor : "#FF9522", scaleGridLineColor : "#FF9522"}
   var platforms = $("#platforms").get(0).getContext("2d");
   new Chart(platforms).Pie(platformPlot,options);
   legend(document.getElementById("platformLegend"), plot);
