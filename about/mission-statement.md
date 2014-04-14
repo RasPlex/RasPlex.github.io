@@ -10,7 +10,7 @@ description: "The mission statement of rasplex"
 
 RasPlex will be the best, cheapest, and most accessible client for Plex Media Server.
 
-It is absolutely critical to also to keep the project community driven, free to download and use, and completely open source. The community has nurtured RasPlex to where it is today, RasPlex **belongs to your**
+It is absolutely critical to also to keep the project community driven, free to download and use, and completely open source. The community has nurtured RasPlex to where it is today, RasPlex **belongs to you**
 
 ## RasPlex means business
 
