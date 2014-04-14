@@ -25,4 +25,4 @@ redirect_from:
   </div>
 </div>
 
-<script src="../assets/js/legend.js"></script>
+<script src="/assets/js/stats.js"></script>
