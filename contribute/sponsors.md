@@ -10,14 +10,9 @@ We'd like to recognize our sponsors for helping RasPlex get to where it is today
 
 Sponsors that were there from the very beginning :)
 
-<div class="row-fluid">
-  <div class="span4"><a href="http://assentworks.ca/" target="_blank"><img src="/images/assent-works-alpha.png" alt="" /></a></div>
-  <div class="span8">AssentWorks was kind enough to allow us to use their state of they art Rapid Prototyping facilties free of charge for developing our RasPlex case prototype. A special thankyou to <a href="http://fabbaloo.com/">Kerry Stevenson</a> for giving us personal tours, and donating many hours from his busy schedule to help us out.</div>
-</div>
-
 <div class="row-fluid"> </div>
   <div class="row-fluid">
-  <div class="span4"><a href="http://www.plexapp.com/" target="_blank"><img src="/images/plex-small.png" alt="" /></a></div>
+  <div class="span4"><a href="http://www.plexapp.com/" target="_blank"><img width="50%" height="50%" src="/images/Plex-logo.png" alt="" /></a></div>
   <div class="span8">Plex Inc has been incredibly supportive of RasPlex from day 1. We are greatful to them for donating forum space, private campfire chat rooms, answering our many questions, and donating developer time to use. Special thanks to Elan, Scott, and Tobias.</div>
 </div>
 
