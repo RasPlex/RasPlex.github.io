@@ -24,6 +24,7 @@ We are currently aware of stories on:
 + <a href="http://korben.info/rasplex.html" target="_blank">Korben</a>
 + <a href="http://www.iphone-ticker.de/rasplex-mit-airplay-und-airtunes-support-ein-plex-client-auf-dem-raspberry-pi-45004/" target="_blank">iPhone-ticker</a>
 + <a href="http://sourceforge.net/blog/projects-of-the-week-april-14-2014/" target="_blank">Sourceforge Project of the Week</a>
++ <a href="http://www.eeweb.com/websites/rasplex" target="_blank">EEweb's Site of the Day </a>
 
 The above list is based off of referral traffic, if you have written a story that isn't on here, please contact us to have the list amended.
 
