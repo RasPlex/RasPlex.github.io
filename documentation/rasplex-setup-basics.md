@@ -2,6 +2,9 @@
 layout: page 
 title: RasPlex Setup Basics
 description: "How to setup RasPlex"
+redirect_from:
+  - /documentation/rasplex-setup-basics/
+  - /documentation/rasplex-setup-basics.html
 ---
 
 <div class="marketing">
