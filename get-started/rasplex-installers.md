@@ -34,7 +34,7 @@ description: "How to get the RasPlex installers"
 
 ### You will probably want
 
-+ A remote control see [our FAQ](/documentation/faq.html) for ways to control rasplex
++ A remote control see [our FAQ](/docs/faq.html) for ways to control rasplex
 + A USB Wifi dongle
 + A USB Bluetooth adapter
 

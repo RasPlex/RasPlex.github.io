@@ -11,7 +11,7 @@ description: "How to Download RasPlex"
 
 ##  Before you download
 
-Please remember it's still in early development, it runs best on a 512MB Raspberry Pi, but we are striving to support 256MB as well. For best results, you should force caching on first boot as detailed in our [faq](/documentation/faq.html) but basically amounts to scrolling through the "All Movies" and "All TV Shows" sections.
+Please remember it's still in early development, it runs best on a 512MB Raspberry Pi, but we are striving to support 256MB as well. For best results, you should force caching on first boot as detailed in our [faq](/docs/faq.html) but basically amounts to scrolling through the "All Movies" and "All TV Shows" sections.
 
 ## You will need
 
