@@ -1,45 +1,38 @@
 ---
-title: RasPlex 0.5.1 released
+title: RasPlex 0.5.1 Pre-release
 modified: 2015-02-13 15-45-25
 layout: post
 tags: []
 ---
 
-# Thanks for being so patient everyone! 
+# Finally RasPlex for Raspberry Pi 2! 
 
 We're pretty sure you'll agree it was worth the wait.
  
-This is by far the most stable and performant version of RasPlex to date! We expect it will be our last "release candidate" for 0.4.0.
- 
-We're running off of the very latest PHT code, which brings in a long-awaited "PlayQueue" feature - enabling you to easily binge on seasons at a time. Please note that this is very new, and any bugs you find should be reporting to Plex, not us.
+This is the first release of RasPlex for the RPi2 and you can expect GREAT things to come.
  
 # Here are our notable changes:
- 
-* Based on PHT 1.1.1
-* Major improvement speed in Pre-Caching
-* Caching Media sections which drastically improves loading time once cached
-* New feature from PHT PlayQueues
-* Playback capabilities improvement (stuttering pretty much eliminated).
-* Exiting playback won't always terminate audio
-* RasPlex time not beeing properly set according to region settings and DST
-* Double subtitles showing when using transcoding
-* Fixed playback randomly stopping after 5 minutes or so
-* Better support for directplay with optional VC1 codec
-* Various skin fixes.
-* Fixed auto update looping issue.
-* Rewrote auto update completely, now more reliable
-* Added 250 MB swap by default to improve responsiveness / prevent crashing
+
+* Please ensure you are using the latest updated installer
+* Same codebase as 0.5.0 with some patches to fix common issues
+* Huge update to linux kernel and drivers
+* Raspberry Pi 2 support
+* Ensure you are using the updated installer
+* Menu sounds are now finally supported
+* AVIO disabled by default as it was causing transcoding issues
+* Fix for Motorola NYX remote to keep from flipping
+* Updated linux kernel to 3.18.6
+* Support for device trees, including hifiberry (you need to add dtoverlay=hifiberry to the config.txt file)
+* Support for several new wireless cards
 
 
 # Big thanks 
 
-To LongChair for his leadership on this release and his awesome speed improvements, and to our Beta team for helping us test this release and come up with better processing for releasing stable code more often.
+To Kwiboo for his patches and OpenELEC work, and to LongChair for his leadership on this release and his awesome speed improvements, and to our Beta team for helping us test this release and come up with better processing for releasing stable code more often.
 
  
 As always, report any bugs as according to tiny.cc/rasplex-bugs.
 You can get the image from our RasPlex installer: https://github.com/RasPlex/rasplex-installer/releases or autoupdate to it.
- 
-Please note that autoupdate has been fixed in this version, and may not work properly with previous implementations, so a full reflash is the recommended way to install if you have issues.
  
 Release is hosted at: https://github.com/RasPlex/RasPlex/releases
  
