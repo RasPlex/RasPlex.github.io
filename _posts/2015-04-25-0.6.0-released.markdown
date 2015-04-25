@@ -1,0 +1,33 @@
+---
+title: RasPlex 0.6.0 Pre-release
+modified: 2015-04-25 15-45-25
+layout: post
+tags: []
+---
+
+# 0.6.0 is Here!
+
+We're pleased to release RasPlex 0.6.0!
+
+You can read the release notes at https://github.com/RasPlex/RasPlex/releases/tag/0.6.0, as well as download the latest images or installers.
+
+For users updating from 0.5.1, we recommend you re-enable ffmpeg AVIO under Preferences -> Playback -> Advanced Video.
+
+# OpenELEC 5.0!
+
+This update brings OpenELEC 5.0, which includes 2 years worth of updates from previous versions which were based on OpenELEC 3.2. This will dramatically improve driver support for a variety of devices, including USB wifi cards. This was a huge effort, undertaken largely by Kwiboo.
+
+Notably, we've finally fixed fast-forward and rewind. You should be able to fast forward and rewind up to 32x now!
+
+# Hyperion and Ambilight!
+
+We've also added support for Hyperion! You can now use ambilight systems powered by Hyperion with RasPlex. Just select 'enable hyperion' from the Services submenu in System Settings. You can customize your Hyperion config by copying your config file to /storage/.config/hyperion.config.json. If you don't already have an Ambilight setup, you should check out http://lightberry.eu/.
+
+# More to come!
+
+We're already hard at work on 0.6.1, which will hopefully include support for hifiberry and other hifi audio addons. 
+
+Thanks for your patience everyone! As always, please report any bugs you find to tiny.cc/rasplex-bugs. 
+Enjoy!
+ 
+-RasPlex Team
