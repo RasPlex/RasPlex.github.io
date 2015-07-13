@@ -60,4 +60,4 @@ If these installers do not work for you, you can use our [legacy download instru
 
 The installers are open source, and available on <a href="https://github.com/RasPlex/rasplex-installer" target="_blank">github</a>. Thanks Patrik for getting the ball rolling on this!
 
-If you have ideas to improve them, but can't help code, post the in the <a href="http://forums.plexapp.com/index.php/topic/64326-rasplex-installers/" target="_blank">forums</a>!
+If you have ideas to improve them, but can't help code, post the in the <a href="https://forums.plex.tv/discussion/64326/rasplex-installers/p1/" target="_blank">forums</a>!
