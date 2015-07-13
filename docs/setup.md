@@ -9,10 +9,10 @@ description: "How to setup RasPlex"
   <div class="row-fluid">
     <div class="span4">
       <h2>Step 1: Setup Plex</h2>
-      <a href="http://plexapp.com/getplex/" target="_blank"><img class="oslogo" src="../images/pms.png" alt="" /></a>
-      <p><a href="http://plexapp.com/getplex/">Plex Media Server</a> is required to be installed on your home computer in order to use RasPlex.</p>
+      <a href="https://plex.tv" target="_blank"><img class="oslogo" src="../images/pms.png" alt="" /></a>
+      <p><a href="https://plex.tv">Plex Media Server</a> is required to be installed on your home computer in order to use RasPlex.</p>
       <p>It will organize your media on your computer for you, automatically get stuff like Movie posters, actors, episode descrptions - you name it! While you're at it, set up some plex channels and a myPlex account. </p>
-      <p>It is closed source, but free to use. Please consider <a href="https://my.plexapp.com/subscription/about" target="_blank"> purchasing a PlexPass </a> to support <a href="http://www.plexapp.com/" target="_blank"> Plex Inc</a>.</p>
+      <p>It is closed source, but free to use. Please consider <a href="https://plex.tv/subscription" target="_blank"> purchasing a PlexPass </a> to support <a href="https://plex.tv" target="_blank"> Plex Inc</a>.</p>
     </div>
     <div class="span4">
       <h2>Step 2: Setup RasPlex</h2>
