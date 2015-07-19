@@ -7,18 +7,18 @@ description: "How to get the RasPlex installers"
   <div class="row-fluid">
     <div class="span4">
       <h2>Windows</h2>
-      <a href="https://github.com/RasPlex/RasPlex/releases/download/0.6.0/GetRasplex.exe" target="_blank"><img class="oslogo" src="../images/200px-Windows_logo_-_2012.svg.png" alt="" /></a>
-      <p>Simply <a href="https://github.com/RasPlex/RasPlex/releases/download/0.6.0/GetRasplex.exe" target="_blank">download</a>, and run as administrator.</p>
+      <a href="https://github.com/RasPlex/rasplex-installer/releases/download/0.7.0/GetRasplex.exe" target="_blank"><img class="oslogo" src="../images/200px-Windows_logo_-_2012.svg.png" alt="" /></a>
+      <p>Simply <a href="https://github.com/RasPlex/rasplex-installer/releases/download/0.7.0/GetRasplex.exe" target="_blank">download</a>, and run as administrator.</p>
     </div>
     <div class="span4">
       <h2>OS X</h2>
-      <a href="https://github.com/RasPlex/RasPlex/releases/download/0.6.0/GetRasPlex.dmg" target="_blank"><img class="oslogo" src="../images/apple.png" alt="" /></a>
-      <p>Simply <a href="https://github.com/RasPlex/RasPlex/releases/download/0.6.0/GetRasPlex.dmg" target="_blank">download</a>, mount dmg, run installer and enter password when prompted with SD card inserted.</p>
+      <a href="https://github.com/RasPlex/rasplex-installer/releases/download/0.7.0/GetRasplex.dmg" target="_blank"><img class="oslogo" src="../images/apple.png" alt="" /></a>
+      <p>Simply <a href="https://github.com/RasPlex/rasplex-installer/releases/download/0.7.0/GetRasplex.dmg" target="_blank">download</a>, mount dmg, run installer and enter password when prompted with SD card inserted.</p>
     </div>
     <div class="span4">
       <h2>Linux</h2>
-      <a href="https://github.com/RasPlex/RasPlex/releases/download/0.6.0/GetRasplex.bin" target="_blank"><img class="oslogo" src="../images/linux.png" alt="" /></a>
-      <p><a href="https://github.com/RasPlex/RasPlex/releases/download/0.6.0/GetRasplex.bin" target="_blank">Download</a>, and run as root with SD card inserted and unmounted.</p>
+      <a href="https://github.com/RasPlex/rasplex-installer/releases/download/0.7.0/GetRasplex.bin" target="_blank"><img class="oslogo" src="../images/linux.png" alt="" /></a>
+      <p><a href="https://github.com/RasPlex/rasplex-installer/releases/download/0.7.0/GetRasplex.bin" target="_blank">Download</a>, and run as root with SD card inserted and unmounted.</p>
       <p>Note: Must run in X11 session, must run on 64 bit linux</p>
     </div>
   </div>

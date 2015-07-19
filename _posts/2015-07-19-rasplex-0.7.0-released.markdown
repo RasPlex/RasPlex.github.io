@@ -1,0 +1,20 @@
+---
+title: RasPlex 0.7.0 release
+modified: 2015-07-19 15-45-25
+layout: post
+tags: []
+---
+
+# 0.7.0 is Here!
+
+Release time!
+
+RasPlex 0.7.0 lands today!
+
+We've added hifiberry support (for music only at the moment), brought back VPN, updated to PHT 1.4.1, and a whole bunch of other fixes.
+
+Check out the full release notes:
+
+https://github.com/RasPlex/RasPlex/releases/tag/0.7.0
+
+Big thanks to Kwiboo for leading the charge on this release, and our beta team for working hard to ensure it's polished and ready to roll!
