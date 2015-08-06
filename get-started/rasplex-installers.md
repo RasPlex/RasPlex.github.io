@@ -35,26 +35,19 @@ description: "How to get the RasPlex installers"
 ### You will probably want
 
 + A remote control see [our FAQ](/docs/faq.html) for ways to control rasplex
-+ A USB Wifi dongle
-+ A USB Bluetooth adapter
 
 ## Reporting problems
 
 Please kindly report any issues you encounter against the <a href="https://github.com/RasPlex/rasplex-installer/issues" target="_blank">github repo</a>
 
-## These are betas
+## GetRasplex Installers
 
-These installers are considered Beta software, and there are several improvements for them planned. They will handle:
+They will handle:
 
-+ Downloading the latest (or any selected) version of RasPlex
++ Downloading the latest (or any selected) version of RasPlex for either the RPi1 (Raspberry Pi B 512 or B+) or RPi2
 + Flashing it to SD card
 
 If these installers do not work for you, you can use our [legacy download instructions](/get-started/download-rasplex.html).
-
-## Planned features include:
-
-+ Ability to update an existing SD card
-+ Ability to toggle SDTV or HDMI mode
 
 ## Want to help?
 
