@@ -14,6 +14,7 @@ There are a few options here.
 
 + Using a USB keyboard is probably easiest. Wireless keyboards are more convenient, but make sure that the wireless transmitter doesn't draw too much power, or else use a powered hub.
 + One of the most popular ways to control RasPlex is with the official Plex Inc iOS and Android apps. Please note that the API has recently been changed by Plex Inc, so you need to use the most recent version of the app and RasPlex. You can also use the plex.tv web ui.
++ A RemotePi Board from <a href="http://www.msldigital.com" target=_blank">MSL Digital
 + A user contributed a <a href="http://errorfreeit.com.au/blog/2014/1/4/free-online-rasplex-remote" target="_blank">free RasPlex remote</a> useable from a web browser. You can get the source <a href="https://github.com/RasPlex/Simple-RasPlex-Remote" target="_blank">on github.</a>
 + All or most remote controls supported by LIRC should work plug and play. The original Xbox remote is very popular and known to be working. There are still lots of surplus units which can be obtained for about $5, but you'll need an xbox to USB adapter, or a soldering iron.
 + Many newer TVs support HDMICEC, which would allow you to use your TV's remote to control RasPlex. Please note that HDMICEC is kind of sketchy, so it won't work with all TVs, even if they say they support CEC.
@@ -86,7 +87,7 @@ When you completely image RasPlex, you destroy the cache. However, automatic upd
 
 ## How come I have a problem no one else has!
 
-This is beacuse you have something unique about your RasPlex setup. Usually, this means you have an odd network configuration, or a weird router. Sometimes, it's because you don't have a good USB power supply for rasplex. Other times, your SD card is faulty, or your Raspberry Pi itself is defective. In some cases, certain NaS devices running the Plex Media Server won't perform well. Ensure you are running the latest version of the media server, and if all else fails please file a bug report.
+This is because you have something unique about your RasPlex setup. Usually, this means you have an odd network configuration, or a weird router. Sometimes, it's because you don't have a good USB power supply for rasplex. Other times, your SD card is faulty, or your Raspberry Pi itself is defective. In some cases, certain NaS devices running the Plex Media Server won't perform well. Ensure you are running the latest version of the media server, and if all else fails please file a bug report.
 
 ## What happened to the Kickstarter for the RasPlex case?
 
