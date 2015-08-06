@@ -11,11 +11,11 @@ description: "How to Download RasPlex"
 
 ##  Before you download
 
-Please remember it's still in early development, it runs best on a 512MB Raspberry Pi, but we are striving to support 256MB as well. For best results, you should force caching on first boot as detailed in our [faq](/docs/faq.html) but basically amounts to scrolling through the "All Movies" and "All TV Shows" sections.
+Please remember it runs best on a Raspberry Pi Model B 2 but also runs on a 512MB Raspberry Pi B or B+. For best results, you should run pre-caching on first boot as detailed in our [faq](/docs/faq.html) section.
 
 ## You will need
 
-+ A Raspberry Pi mini computer (512MB recommended, it should have a blue analog audio jack, if it's black then it's 256MB)
++ A Raspberry Pi Model B 512MB or Model B+ or a Model B2
 + A case to protect your Raspberry Pi (optional)
 + A 2GB or larger SD card (class 10+) with compatible reader
 + A USB micro power supply (should be at least 2A at 5v, if you experience crashing it's probably because you have a bad power supply)
@@ -24,9 +24,6 @@ Please remember it's still in early development, it runs best on a 512MB Raspber
 You will probably want:
 
 + A remote control
-+ A USB Wifi dongle
-+ A USB Bluetooth adapter
-
 
 # Mac OSX / Linux
 
@@ -47,7 +44,7 @@ diskutil unmount /dev/diskX
 dd if=image_name.img of=/dev/rdiskX bs=1M #The "rdisk" will make it flash much faster
 ```
 
-# Windows / fallback
+# Windows
 
 ## Step 1 - Get the flasher program
 
