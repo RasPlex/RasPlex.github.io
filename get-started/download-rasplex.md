@@ -18,7 +18,7 @@ Please remember it runs best on a Raspberry Pi Model B 2 but also runs on a 512M
 + A Raspberry Pi Model B 512MB or Model B+ 512MM or a Model B2 1024MB
 + A case to protect your Raspberry Pi (optional)
 + A 4GB Class 10 SD (Model B) or MicroSD (Model B+ and B2) card with compatible reader
-+ A USB micro power supply (should be at least 2A at 5v, if you experience crashing it's probably because you have a bad power supplyor poor quality USB power cable)
++ A USB micro power supply (should be at least 2A at 5v, if you experience crashing it's probably because you have a bad power supply or poor quality USB power cable)
 + An HDMI cord
 
 You will probably want:
