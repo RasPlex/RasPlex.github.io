@@ -18,12 +18,12 @@ description: "How to setup RasPlex"
       <h2>Step 2: Setup RasPlex</h2>
       <a href="../get-started/rasplex-installers.html" target="_blank"><img class="oslogo" src="../images/getrasplex.png" alt="" /></a>
       <p>Follow the steps to <a href="../get-started/rasplex-installers.html">get RasPlex</a>, and set up a RasPlex box on every TV in your home. At the meager cost of a Raspberry Pi, why not get some for your friends and family to share all of your media!</p>
-      <p><strong>Please note:</strong> the first run of RasPlex will always be the slowest, and RasPlex performs better on 512MB Raspberry Pi's than on 256MB. To speed things up, you should manually force caching as described in <a href="faq.html">the FAQ</a></p>
+      <p><strong>Please note:</strong> the first run of RasPlex will always be the slowest, and RasPlex performs better on 1024Mb (Model B2) Raspberry Pi's than on 512MB (Model B and B+). To speed things up, you should run pre-caching as described in <a href="faq.html">the FAQ</a></p>
     </div>
     <div class="span4">
       <h2>Step 3: Enjoy</h2>
       <a href="http://www.youtube.com/watch?v=S-9USnW-aOc" target="_blank"><img class="oslogo" src="../images/plex-screen.png" alt="" /></a>
-      <p>You'll have now turned every TV in your home into a Smart TV. Enjoy streaming your Music, Movies, and TV shows, as well as Apple Airplay.</p>
+      <p>You'll have now turned every TV in your home into a Smart TV. Enjoy streaming your Music, Movies, and TV shows, as well as Apple Airplay (audio only).</p>
     </div>
   </div>
 </div>
