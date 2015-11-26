@@ -22,14 +22,14 @@ After <a href="https://plex.tv/" target="_blank">following the simple steps to s
 
 ## Complete entertainment solution
 
-Once RasPlex is out of Beta, it will also have support for Plex Channels, such as NetFlix, Crackle, and many more! With features like Retro Arch game emulation powered by Emulation Station, your RasPlex will be a full entertainment center to play all of your favorite nostalgia games on one powerful little box.
+RasPlex has support for Plex Channels, such as iPlayer, Crackle, and many more!
 
 ## Your media is ready when you are
 
-Rather than spending a lot of money on an expensive computer to act as a Plex client on your TV, or having to plug in your laptop every time you want to watch something, use RasPlex. The Raspberry Pi hardware is so inexpensive that you can just leave it always hooked up - on every TV in your house - and always have your media ready to go without playing with cords or shelling out for an overpowered computer. **If you have any computers with XBMC or Plex in your house, you need to replace them with RasPlex!**
+Rather than spending a lot of money on an expensive computer to act as a Plex client on your TV, or having to plug in your laptop every time you want to watch something, use RasPlex. The Raspberry Pi hardware is so inexpensive that you can just leave it always hooked up - on every TV in your house - and always have your media ready to go without playing with cords or shelling out for an overpowered computer. **If you have any computers with Kodi, OpenELEC or Plex Home Theatre in your house, you can replace them with RasPlex!**
 
 ## RasPlex is Open
 
 As a completely Open Source platform, you'll never have to jailbreak RasPlex to do what you want with it. RasPlex is meant to be modded, and really good mods will be integrated into RasPlex core.
 
-RasPlex is built on the proven reliability and power of XBMC, and is a superset of XBMC functionality. If you want to, you can even run XBMC by simply switching skins in the preferences menu.
+RasPlex is built on the proven reliability and power of Kodi, and is a superset of Kodi functionality.
