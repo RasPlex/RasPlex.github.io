@@ -18,15 +18,13 @@ By supporting RasPlex with donations, or by purchasing a heavily discounted case
 
 Funds are used for hardware expenses, as "bounty" for developers, and to pay various bills.
 
-The RasPlex case that is in the final stages of prototyping will be the basis for a revenue stream for RasPlex, though it is our goal to sell it for as cheap as the manufacturing process will allow us to.
-
 We want RasPlex to be used everywhere, on every TV.
 
 ## RasPlex everywhere
 
 All funds taken in are reinvested in RasPlex - Dale takes nothing out (and in fact pays a lot of the expenses out of pocket). I want to see how big it can get. I want it everywhere. I want everyone using RasPlex to turn every TV in their house into a Smart TV, and to have their media, their way.
 
-I want to kill AppleTV. RasPlex is already a superset of XBMC functionality, and once it has fully matured, it should be comparable to the Roku in terms of features and price, only with a much nicer GUI, and completely FOSS.
+I want to kill AppleTV. RasPlex is already a superset of Kodi functionality, and surpasses the Roku and Apple TV4 in terms of features and price, only with a much nicer GUI (which is skinable), and completely FOSS.
 
 Queue world domination music.
 
