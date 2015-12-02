@@ -1,0 +1,23 @@
+---
+title: RasPlex 1.0.1 release
+modified: 2015-12-01 19-57-25
+layout: post
+tags: []
+---
+
+# 1.0.1 is Here!
+
+Changes:
+- Fixes downmix, use the boost center setting to control how much of the center channel should be mixed
+- Rotten Tomatoes rating now only shows when audience rating has a value
+- Videos with vorbis audio codec is no longer forced transcoded
+- The home menu used when "Hide Quit and Shut Down in menu" is selected now works correctly
+- Fixes Segmentation Fault when USB-CEC adapter attached
+- Hyperion updated to latest
+- Linux kernel 4.1.13 and latest RPi firmware
+
+Check out the full release notes:
+
+https://github.com/RasPlex/RasPlex/releases/tag/1.0.1
+
+Big thanks to Kwiboo for leading the charge on this release, and our beta team for working hard to ensure it's polished and ready to roll!
