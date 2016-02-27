@@ -7,8 +7,6 @@ tags: []
 
 # 1.0.2 is Here!
 
-Channel: prerelease
-
 New:
 
 - Added Skin option to show shutdown/restart for managed users
