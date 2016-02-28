@@ -5,6 +5,7 @@ description: "Frequently Asked Questions"
 
 redirect_from:
   - /about/faq/
+  - /docs/faq/
   - /about/faq.html
 ---
 
