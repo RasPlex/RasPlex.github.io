@@ -136,6 +136,7 @@ DEPENDENCIES
   coderay
   github-pages
   httparty
+  jekyll-redirect-from
   kramdown
   rake
   stringex
