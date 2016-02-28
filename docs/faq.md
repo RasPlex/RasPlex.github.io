@@ -3,8 +3,9 @@ layout: page
 title: FAQ
 description: "Frequently Asked Questions"
 
+permalink: /docs/faq.html
+
 redirect_from:
-  - /about/faq/
   - /docs/faq/
   - /about/faq.html
 ---
