@@ -1,3 +1,5 @@
+![ci status](https://travis-ci.org/RasPlex/RasPlex.github.io.svg)
+
 # RasPlex Website
 
 ## Why Jekyll
