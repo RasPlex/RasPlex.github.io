@@ -2,8 +2,6 @@
 layout: page 
 title: User Statistics
 description: "Stats for usage, etc"
-redirect_from:
-  - /about/stats/
 
 ---
 

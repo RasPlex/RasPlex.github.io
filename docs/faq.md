@@ -3,9 +3,6 @@ layout: page
 title: FAQ
 description: "Frequently Asked Questions"
 
-redirect_from:
-  - /about/faq/
-  - /about/faq.html
 ---
 
 ## How can I control RasPlex?
