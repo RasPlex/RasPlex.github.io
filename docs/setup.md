@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: page
 title: RasPlex Setup Basics
 description: "How to setup RasPlex"
 
