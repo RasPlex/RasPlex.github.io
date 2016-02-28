@@ -1,7 +1,9 @@
 ---
-layout: page 
+layout: page
 title:  Contributors
 description: "Folks who have contributed to RasPlex"
+permalink: /contribute/contributor-list.html
+
 ---
 
 ## Project Lead / Creator

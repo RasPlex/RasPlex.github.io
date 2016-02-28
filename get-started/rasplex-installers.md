@@ -1,7 +1,9 @@
 ---
-layout: page 
+layout: page
 title: RasPlex Installers
 description: "How to get the RasPlex installers"
+permalink: /get-started/rasplex-installers.html
+
 ---
 <div class="marketing">
   <div class="row-fluid">

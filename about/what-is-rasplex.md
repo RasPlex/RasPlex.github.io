@@ -1,7 +1,9 @@
 ---
-layout: page 
+layout: page
 title: What is RasPlex
 description: "Describing what is RasPlex"
+permalink: /about/what-is-rasplex.html
+
 ---
 
 # RasPlex is an Entertainment Center Solution for Raspberry Pi

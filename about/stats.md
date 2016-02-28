@@ -1,7 +1,8 @@
 ---
-layout: page 
+layout: page
 title: User Statistics
 description: "Stats for usage, etc"
+permalink: /about/stats.html
 
 ---
 

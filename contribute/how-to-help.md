@@ -1,7 +1,9 @@
 ---
-layout: page 
+layout: page
 title: How To Help
 description: "Ways you can help RasPlex"
+permalink: /contribute/how-to-help.html
+
 ---
 
 ## Help make RasPlex better

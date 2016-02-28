@@ -1,7 +1,9 @@
 ---
-layout: page 
+layout: page
 title: Press Coverage
 description: "Press coverage of RasPlex"
+permalink: /about/press-coverage.html
+
 ---
 
 ## Thanks for spreading the word!

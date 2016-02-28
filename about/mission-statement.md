@@ -1,7 +1,9 @@
 ---
-layout: page 
+layout: page
 title: Our Mission
 description: "The mission statement of rasplex"
+permalink: /about/mission-statement.html
+
 ---
 
 

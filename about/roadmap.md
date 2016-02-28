@@ -3,6 +3,8 @@ layout: page
 title: Roadmap
 description: "Roadmap for RasPlex"
 creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+permalink: /about/roadmap.html
+
 ---
 
 ## Please be patient

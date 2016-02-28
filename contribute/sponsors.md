@@ -1,7 +1,9 @@
 ---
-layout: page 
+layout: page
 title: Sponsors
 description: "RasPlex sponsors"
+permalink: /contribute/sponsors.html
+
 ---
 
 We'd like to recognize our sponsors for helping RasPlex get to where it is today. You guys rock! If you are interested in becoming a sponsor, please contact dale.hamel@rasplex.com

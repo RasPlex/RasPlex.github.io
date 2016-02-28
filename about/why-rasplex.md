@@ -1,7 +1,9 @@
 ---
-layout: page 
+layout: page
 title: Why RasPlex
 description: "Why use RasPlex"
+permalink: /about/why-rasplex.html
+
 ---
 
 ## Your media, your way
