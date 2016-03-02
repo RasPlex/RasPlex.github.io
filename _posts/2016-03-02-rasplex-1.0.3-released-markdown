@@ -1,0 +1,25 @@
+---
+title: RasPlex 1.0.3 release
+modified: 2016-02-02 08-57-25
+layout: post
+tags: []
+---
+
+# 1.0.3 is Here!
+
+New:
+
+- Raspberry Pi 3 support
+- Play from here added to episodes context menu on home screen
+
+Changes:
+
+- Fixes use of cache when loading preplay screen
+- Fixes subtitle selection for transcoded media and after a vobsub has been selected
+- Use same subtitle name format as Plex Web
+- Smaller gui updates to video osd, codec info and preferences in default skin
+- Fixes for crashes on application shutdown
+- FFmpeg updated to 2.4.13
+- OpenVPN updated to 2.3.10
+- Base OS packages synced with OpenELEC 6.0.2
+- Updated Linux kernel to 4.1.18 and latest RPi firmware
