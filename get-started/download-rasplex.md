@@ -2,7 +2,7 @@
 layout: page 
 title: Manual Installation Instructions
 description: "How to Download RasPlex"
-permalnk: /get-started/download-rasplex.html
+permalink: /get-started/download-rasplex.html
 
 ---
 
