@@ -42,7 +42,6 @@ If you see them in chat or on the forums, please take a moment to thank them for
 
 + Everyone who has tried RasPlex
 + Everyone on the <a href="http://forums.plexapp.com/index.php/forum/126-rasplex/" target="_blank">RasPlex forums</a>
-+ Everyone in the <a href="http://chat.srvthe.net/" target="_blank">RasPlex chat</a>
 + Our donors! You know who you are : )
 
 ## Special Thanks
