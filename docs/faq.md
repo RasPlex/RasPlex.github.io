@@ -43,7 +43,6 @@ There are several other media centers for the Raspberry Pi that can offer simila
 + <a href="http://xbian.org/" target="_blank"> XBian </a> is a platform for XBMC that runs on raspbian.
 + <a href="http://www.raspbmc.com/" target="_blank"> Raspbmc </a>is another platform for XBMC that runs on raspbian.
 + <a href="http://wiki.xbmc.org/index.php?title=Add-on:PleXBMC" target="_blank">PleXBMC</a> is a Python addon to XBMC that can be used with any of the above to provide Plex functionality on the Raspberry Pi.
-+ <a href="https://github.com/dalehamel/pyplex" target="_blank">PyPlex</a> is a light weight frontend for Plex on Raspberry Pi that requires the iOS or Android app to control it.
 
 ## How can I help
 
@@ -58,9 +57,8 @@ While it is possible to run Plex Media Server on a Raspberry Pi, there are limit
 
 ## Where Can I get help?
 
-There are many places!
+There are many places! For example:
 
-+ Our <a href="http://chat.srvthe.net/"> live developer chat</a> is pretty lively, with members from around the world
 + The <a href="https://forums.plex.tv/categories/rasplex/"> RasPlex forums</a> are great if you don't mind waiting
 
 ## How do I setup Wifi
@@ -86,7 +84,3 @@ When you completely image RasPlex, you destroy the cache. However, automatic upd
 ## How come I have a problem no one else has!
 
 This is because you have something unique about your RasPlex setup. Usually, this means you have an odd network configuration, or a weird router. Sometimes, it's because you don't have a good USB power supply for rasplex. Other times, your SD card is faulty, or your Raspberry Pi itself is defective. In some cases, certain NaS devices running the Plex Media Server won't perform well. Ensure you are running the latest version of the media server, and if all else fails please file a bug report.
-
-## What happened to the Kickstarter for the RasPlex case?
-
-For various reasons (Dale changing jobs, moving, delays getting Kickstarter in Canada, etc) the project has been cancelled. The STL and solidworks files are available on <a href="http://sourceforge.net/projects/rasplex/files/case/" target="_blank">sourceforge</a>, and you can purchase 3D printed models from <a href="http://www.shapeways.com/shops/rasplex" target="_blank">Shapeways</a> if you choose. If you made a large donation and expected to receive a case, please email us and we'll work something out for you.</div>
