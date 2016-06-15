@@ -14,6 +14,7 @@ RasPlex is now more of a branding of the OpenPHT-Embedded builds for Raspberry P
 Important new features includes the addition of mmal decoding and support for installing/updating skins directly from the select skin dialog.
 
 New:
+
 - Updated branding and new splash screen
 - Transcode audio to AC3 for use with optical out
 - Improved gapless music support
@@ -31,6 +32,7 @@ New:
 - Exprimental Bluetooth Audio support - works without issue on RPi3, on RPi0/1/2 with BT dongle it is dependant on the make of dongle which must support BT V4.1 at minimum
 
 Fixes:
+
 - Fix filtered episodes view in default skin
 - Fix a shuffle all / create play queue issue
 - Fix a shoutcast redirect issue

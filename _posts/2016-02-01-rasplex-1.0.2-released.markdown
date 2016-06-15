@@ -8,12 +8,14 @@ tags: []
 # 1.0.2 is Here!
 
 New:
+
 - Added Skin option to show shutdown/restart for managed users
 - Added Preferences option to show watched items in recently added fanout
 - Added Preferences option to hide channels from main menu
 - Added go to show/season to context menu for episodes
 
 Changes:
+
 - Added support for shared channels for managed users (need to enable in PMS/Users)
 - Support for libdcadec to decode DTS-HD MA to 8 channel LPCM (disable DTS capable receiver and enable DTS decode in Preferences)
 - Updated default CEC remote keymap for Guide/Info and color buttons:

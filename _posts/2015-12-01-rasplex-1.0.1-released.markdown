@@ -8,6 +8,7 @@ tags: []
 # 1.0.1 is Here!
 
 Changes:
+
 - Fixes downmix, use the boost center setting to control how much of the center channel should be mixed
 - Rotten Tomatoes rating now only shows when audience rating has a value
 - Videos with vorbis audio codec is no longer forced transcoded

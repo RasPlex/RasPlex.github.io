@@ -23,3 +23,7 @@ Changes:
 - OpenVPN updated to 2.3.10
 - Base OS packages synced with OpenELEC 6.0.2
 - Updated Linux kernel to 4.1.18 and latest RPi firmware
+
+Check out the full release notes:
+
+https://github.com/RasPlex/RasPlex/releases/tag/1.0.3
