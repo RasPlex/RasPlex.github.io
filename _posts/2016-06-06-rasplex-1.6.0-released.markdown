@@ -1,0 +1,44 @@
+---
+title: RasPlex 1.6.0 release
+modified: 2016-06-06 22-52-00
+layout: post
+tags: []
+---
+
+# 1.6.0 is Here!
+
+This release brings lots of improvements to the playback engine backported from Kodi Jarvis 16.1.
+It is also the first release where OpenPHT and RasPlex is truly merged into one shared code base.
+RasPlex is now more of a branding of the OpenPHT-Embedded builds for Raspberry Pi devices.
+
+Important new features includes the addition of mmal decoding and support for installing/updating skins directly from the select skin dialog.
+
+New:
+- Updated branding and new splash screen
+- Transcode audio to AC3 for use with optical out
+- Improved gapless music support
+- Better 3D support
+- Preference option to disable preplay screen
+- Skin option to disable window and dialog fade animations
+- Music OSD added to default skin
+- Preference option to disable server side scaling of fanart and photos
+- Support for downloading, installing and updating supported skins in preferences
+- Updated seek handling with support for adaptive seeking and preview images
+- Previous menu and back button now switches to fullscreen when media is playing on home screen and vice versa
+- Support for MMAL decoding - now supports HiFiBerry/IQ DACs and USB device audio across all media
+- Transcode media larger then 1080p
+- Direct play of HEVC up to 720p
+- Exprimental Bluetooth Audio support - works without issue on RPi3, on RPi0/1/2 with BT dongle it is dependant on the make of dongle which must support BT V4.1 at minimum
+
+Fixes:
+- Fix filtered episodes view in default skin
+- Fix a shuffle all / create play queue issue
+- Fix a shoutcast redirect issue
+- Fix shoutcast stream title when ffmpeg avio is enabled
+- Fix audio and subtitle selection for media with multiple media items or parts
+- Avoid getting stuck in dim state when skin is reloaded
+- Fix wrong icon highlight and window switch in preferences menu
+- Font fixes for a common crash in windows version
+- Reset screen saver timer in plex http handler
+- Fix search result title in default skin
+- Fix pre-cache of bigThumb art
