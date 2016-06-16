@@ -1,6 +1,6 @@
 ---
-title: RasPlex 1.6.0 release
-modified: 2016-06-16 12-00-00
+title: RasPlex 1.6.1 release
+modified: 2016-06-16 20-00-00
 layout: post
 tags: []
 ---
