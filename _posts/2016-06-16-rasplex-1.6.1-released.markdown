@@ -1,0 +1,36 @@
+---
+title: RasPlex 1.6.0 release
+modified: 2016-06-16 12-00-00
+layout: post
+tags: []
+---
+
+# 1.6.1 is Here!
+
+This release includes fixes for issues reported with the 1.6.0 release and updates to the default skin.
+
+New:
+
+- Skin option to add Play File to home menu in default skin
+- Updates to default skin (thanks @magnumdoomguy)
+  - Skin option to Hide Thumbnails for Unwatched Episodes
+  - Added Portrait Posters for Home Videos
+  - Added Landscape Posters for Home Videos On Deck/Recently Added
+  - Added Categories to Skin Settings
+  - Cleanup of unused skin code
+- Update some Italian strings (thanks @robello84)
+
+Fixes:
+
+- Fix Plex Companion app connection issues (RasPlex/OpenPHT#69)
+- Fix hevc typo in RPi 720p check (RasPlex/RasPlex#501)
+- Fix RasPlex/OpenPHT causing PMS to crash on plugin usage (RasPlex/RasPlex#492)
+- Workaround for crash related to plex companion and screensaver (RasPlex/OpenPHT#75)
+- Fix selecting/starting an item in a channel list sometime selects/starts the first item (RasPlex/OpenPHT#63)
+- Prevent playing wrong item using Play Button with Channel Items (RasPlex/OpenPHT#44)
+- Enable use of harfbuzz with libass (RasPlex/RasPlex#482)
+- Use overlay image to determine watched / unwatched state (RasPlex/OpenPHT#77)
+- Fix play/pause in keymaps (RasPlex/OpenPHT#80)
+- Only show addon update notification when addon is in use
+- Fix ListItem usage in onload and onunload window actions
+- Update to linux 4.4.13 and latest rpi firmware
