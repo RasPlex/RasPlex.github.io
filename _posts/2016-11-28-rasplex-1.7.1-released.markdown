@@ -1,0 +1,45 @@
+---
+title: RasPlex 1.7.1 release
+modified: 2016-11-28 20-00-00
+layout: post
+tags: []
+---
+
+# 1.7.1 is Here!
+
+This release includes fixes and new features for issues reported with the previous releases
+
+New:
+
+- Improved Streaming Brain support
+- Improved iOS companion support
+- Support for showing imdb rating
+- Preference option to include watched in watch later and recommended
+- Skin option to hide fanart in library
+- Lots of skinning engine and other improvements: (thanks @bkury ) 
+- Mouse Support
+- New preference category for OpenPHT options
+- Preference option to stack recently added
+- Preference option to disable preplay screen based on content
+- Added reboot option on supported systems (default skin)
+- Support for 3rd-party Kodi remote apps (e.g. Yatse)
+- FileManager and SystemInfo support (requires skin support)
+- Quick filter support (requires skin support)
+- V.L. System M-Play Blast remote support
+- Updated Italian translation (thanks @NicolaIsotta )
+- Updated help and version branding (now say OpenPHT instead of XBMC on command line)
+- Updated to ffmpeg 2.8.8
+
+Fixes:
+
+- Performance/smoothness and CPU usage optimizations (fixed cpu spike when browsing library)
+- Fix search window focus issue
+- Fix reconnecting to the adapter upon libcec callback CEC_ALERT_CONNECTION_LOST
+- Fix typo ('Video resolution to large' now 'Video resolution too large')
+- Fix missing overlay/episode info for focused deck item
+- Fix selected item when returning to home window
+- Allow shared servers to be used as best server (fixes channel issue when only shared servers is available)
+- Only use best server service lookup for myplex clips
+- Fix for broken music volume with Apple Remote (thanks @WN1188 )
+- Update to linux 4.4.30 and latest rpi firmware
+- Fix for mixed content in photo libraries
