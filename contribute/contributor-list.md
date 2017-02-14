@@ -10,6 +10,12 @@ permalink: /contribute/contributor-list.html
 
 <a href="http://blog.srvthe.net" target="_blank">Dale hamel</a> - void_ptr
 
+## Kwiboo
+
+Kwiboo is the current lead developer on the Rasplex and OpenPHT projects - massive thanks to him for keeping
+this projects alive.
+
+
 ## LongChair
 
 Lionel "LongChair" Chazallon deserves a special mention.
@@ -17,6 +23,7 @@ Lionel "LongChair" Chazallon deserves a special mention.
 LongChair was the first community member to join the RasPlex support channel. He started out as a tester, but since then his knowledge of Git, Linux, and the XBMC / Plex core code has grown to a staggering degree. He's been responsible for many performance tweaks, and has provided a great deal of leadership to the project. While other devs have come and gone, LongChair has always been around - staying up to insane hours of the night - tweaking performance and shaving off a few seconds here and there to get the GUI to be as fast as it is.
 
 You'll probably see LongChair on the forums, in live chat, or triaging Github Issues. If you do, make sure to thank him for all his hard work!
+
 
 ## RasPlex Core Team
 
@@ -41,7 +48,7 @@ If you see them in chat or on the forums, please take a moment to thank them for
 ## RasPlex Community
 
 + Everyone who has tried RasPlex
-+ Everyone on the <a href="http://forums.plexapp.com/index.php/forum/126-rasplex/" target="_blank">RasPlex forums</a>
++ Everyone on the <a href="https://forums.plex.tv/categories/rasplex" target="_blank">RasPlex forums</a>
 + Our donors! You know who you are : )
 
 ## Special Thanks
@@ -49,7 +56,7 @@ If you see them in chat or on the forums, please take a moment to thank them for
 + <a href="http://openelec.tv/" target="_blank">The entire OpenELEC team</a> - For the platform that RasPlex runs on
 + <a href="http://xbmc.org/" target="_blank"> The entire XBMC team </a>- For their hard work porting XBMC to the Raspberry Pi.
 + Tobias Hieta - For maintaining PlexHT
-+ <a href="http://elan.plexapp.com/" target="_blank">Elan Feingold</a> - For creating Plex.
++ <a href="https://www.plex.tv" target="_blank">Elan Feingold</a> - For creating Plex.
 + GEWalker - For creating plex-linux
 + Andrew Winton - For the help designing the RasPlex case.
 + <a href="http://fabbaloo.com/" target="_blank"> Kerry Stevenson</a> - For volunteering his time and resources at AssentWorks.
