@@ -29,9 +29,9 @@ permalink: /get-started/rasplex-installers.html
 
 # Stuff you should have
 
-+ A Raspberry Pi computer Model B 512MB or Model B+ 512MM or a Model B2 1024MB
++ A Raspberry Pi computer Model B 512MB or Model B+ 512MM or a Model B2 1024MB, Pi 3 or Pi Zero
 + A case to protect your Raspberry Pi (optional)
-+ A 4GB Class 10 SD (Model B) or MicroSD (Model B+ and B2) card with compatible reader
++ A 4GB Class 10 SD (Model B) or MicroSD (Model B+ and B2 or better) card with compatible reader or better
 + A USB micro power supply (should be at least 2A at 5v, if you experience crashing it's probably because you have a bad power supply or poor quality USB power cable)
 + An HDMI cord
 
@@ -47,7 +47,7 @@ Please kindly report any issues you encounter against the <a href="https://githu
 
 They will handle:
 
-+ Downloading the latest (or any selected) version of RasPlex for either the RPi1 (Raspberry Pi B 512 or B+) or RPi2 (Raspberry Pi B2 1024)
++ Downloading the latest (or any selected) version of RasPlex for either the RPi1 (Raspberry Pi B 512 or B+, Pi Zero)  or   RPi2 (for Raspberry Pi B2 1024,  Pi 3)
 + Flashing it to SD card
 
 If these installers do not work for you, you can use our [legacy download instructions](/get-started/download-rasplex.html).
