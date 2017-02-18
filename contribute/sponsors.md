@@ -6,7 +6,7 @@ permalink: /contribute/sponsors.html
 
 ---
 
-We'd like to recognize our sponsors for helping RasPlex get to where it is today. You guys rock! If you are interested in becoming a sponsor, please contact dale.hamel@rasplex.com
+We'd like to recognize our sponsors for helping RasPlex get to where it is today. You guys rock! If you are interested in becoming a sponsor, please send a message on <a href="https://www.facebook.com/Rasplex" target="_blank">Facebook</a>
 
 ## Grass Roots Sponsors
 
@@ -22,3 +22,6 @@ Sponsors that were there from the very beginning :)
   <div class="span4"><a href="http://openelec.tv/"><img src="/images/openelec_logo.png" alt="" /></a></div>
   <div class="span8">The boys and girls at OpenELEC have been a phenomenal support to RasPlex, as the primary platform for RasPlex is currently OpenELEC. We're happy to work with them, and think they are doing a great job. They haven't explicitly sponsored us, but we just want to make sure that they get the credit that they deserve!</div>
 </div>
+<!-- 
+dale.hamel@rasplex.com mailbox is down, use facebook
+-->
