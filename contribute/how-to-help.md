@@ -12,6 +12,7 @@ As RasPlex is a community supported project, we are always excited when people w
 
 ### Join the community!
 
++ Ask and answer questions on the <a href="https://forums.plex.tv/categories/rasplex">Rasplex forums @ Plex.tv</a>
 + Check out the guidelines on our <a href="https://github.com/RasPlex/RasPlex/wiki" target="_blank">wiki</a>
 + Make a github account for reporting issues and making pull requests, if you don't have one already.
-+ Ask and answer questions on the <a href="https://forums.plex.tv/categories/rasplex"> forums</a>
+
