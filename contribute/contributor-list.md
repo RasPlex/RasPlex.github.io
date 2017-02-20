@@ -6,14 +6,14 @@ permalink: /contribute/contributor-list.html
 
 ---
 
-## Project Lead / Creator
+## Project Lead / Creator -  Dale Hamel
 
-<a href="http://blog.srvthe.net" target="_blank">Dale hamel</a> - void_ptr
+<a href="http://blog.srvthe.net" target="_blank">website</a> - void_ptr
 
 ## Kwiboo
 
 Kwiboo is the current lead developer on the Rasplex and OpenPHT projects - massive thanks to him for keeping
-this projects alive.
+this project alive - As well as OpenPHT
 
 
 ## LongChair
@@ -31,8 +31,16 @@ these guys are the unsung heros of RasPlex. They deserve your praise, as they wo
 
 If you see them in chat or on the forums, please take a moment to thank them for their hard work.
 
++ magnumdoomguy
++ deadeyeflint
++ bkury
++ dlanor
++ ninjabem
++ dan-the-man
 + Andreas Weinlein - a_wein
 + Robert Buhren - weelkin
+
+and NedtheNerd (Rest In Peace)
 
 
 ## RasPlex Hackers
@@ -53,7 +61,8 @@ If you see them in chat or on the forums, please take a moment to thank them for
 
 ## Special Thanks
 
-+ <a href="http://openelec.tv/" target="_blank">The entire OpenELEC team</a> - For the platform that RasPlex runs on
++ <a href="http://libreelec.tv/" target="_blank">The entire LibreELEC team</a> - For the platform that RasPlex currently runs on
++ <a href="http://openelec.tv/" target="_blank">The entire OpenELEC team</a> - For the platform that RasPlex originally ran on
 + <a href="http://xbmc.org/" target="_blank"> The entire XBMC team </a>- For their hard work porting XBMC to the Raspberry Pi.
 + Tobias Hieta - For maintaining PlexHT
 + <a href="https://www.plex.tv" target="_blank">Elan Feingold</a> - For creating Plex.
