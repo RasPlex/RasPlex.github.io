@@ -14,7 +14,9 @@ With the community being the core of RasPlex, getting any sort of press coverage
 
 We are currently aware of stories on:
 
-
++ <a href="https://www.linux.com/learn/turn-raspberry-pi-3-powerful-media-player-rasplex" target="_blank">Linux.com</a>
++ <a href="https://www.howtogeek.com/283136/how-to-turn-a-raspberry-pi-into-a-cheap-plex-player-with-rasplex/" target="_blank">How-To Geek</a>
++ <a href="http://www.htpcbeginner.com/install-rasplex-raspberry-pi/" target="_blank">htpc Beginner</a>
 + <a href="http://www.engadget.com/2013/03/15/plex-client-project-for-raspberry-pi-gets-a-fresh-update-and-its/" target="_blank">Engadget</a>
 + <a href="http://www.raspberrypi.org/archives/3500" target="_blank">Raspberry Pi.org</a>
 + <a href="http://www.linuxjournal.com/content/plexible-pi" target="_blank">Linux Journal</a>
