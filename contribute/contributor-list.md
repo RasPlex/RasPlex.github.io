@@ -6,7 +6,7 @@ permalink: /contribute/contributor-list.html
 
 ---
 
-## Project Lead / Creator -  Dale Hamel
+## Dale Hamel - Project Lead / Creator 
 
 <a href="http://blog.srvthe.net" target="_blank">website</a> - void_ptr
 
@@ -31,8 +31,8 @@ these guys are the unsung heros of RasPlex. They deserve your praise, as they wo
 
 If you see them in chat or on the forums, please take a moment to thank them for their hard work.
 
-+ Lawrence Popa - magnumdoomguy  (Also for the Aeon Nox Skin for OpenPHT/Rasplex)
-+ deadeyeflint
++ Lawrence Popa - magnumdoomguy  (Also for the <a href="https://github.com/magnumdoomguy/skin.aeon.nox.5" target="_blank">Aeon Nox Skin</a> for OpenPHT/Rasplex)
++ deadeyeflint (Also for the <a href="https://forums.plex.tv/categories/plex-black-edition" target="_blank">Plex Black Edition Skin</a> for OpenPHT/Rasplex)
 + bkury
 + dlanor
 + ninjabem
