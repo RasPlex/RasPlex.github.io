@@ -31,7 +31,7 @@ these guys are the unsung heros of RasPlex. They deserve your praise, as they wo
 
 If you see them in chat or on the forums, please take a moment to thank them for their hard work.
 
-+ magnumdoomguy
++ Lawrence Popa - magnumdoomguy  (Also for the Aeon Nox Skin for OpenPHT/Rasplex)
 + deadeyeflint
 + bkury
 + dlanor
@@ -64,7 +64,6 @@ and NedtheNerd (Rest In Peace)
 + <a href="http://libreelec.tv/" target="_blank">The entire LibreELEC team</a> - For the platform that RasPlex currently runs on
 + <a href="http://openelec.tv/" target="_blank">The entire OpenELEC team</a> - For the platform that RasPlex originally ran on
 + <a href="http://xbmc.org/" target="_blank"> The entire XBMC team </a>- For their hard work porting XBMC to the Raspberry Pi.
-+ Tobias Hieta - For maintaining PlexHT
 + <a href="https://www.plex.tv" target="_blank">Elan Feingold</a> - For creating Plex.
 + GEWalker - For creating plex-linux
 + Andrew Winton - For the help designing the RasPlex case.
