@@ -21,8 +21,6 @@ We are currently aware of stories on:
 + <a href="http://www.raspberrypi.org/archives/3500" target="_blank">Raspberry Pi.org</a>
 + <a href="http://www.linuxjournal.com/content/plexible-pi" target="_blank">Linux Journal</a>
 + <a href="http://lifehacker.com/5991040/rasplex-puts-plex-on-your-raspberry-pi+powered-home-theater-pc" target="_blank">Lifehacker</a>
-+ <a href="http://www.techmadeeasy.co.uk/2013/06/07/review-rasplex-for-raspberry-pi/" target="_blank">Tech Made Easy </a>
-+ <a href="http://www.muktware.com/5409/raspberry-pi-gets-its-own-plex-media-server-rasplex" target="_blank">Muktware</a>
 + <a href="http://www.veilleperso.com/home-rasplex-5987" target="_blank">Vielle Perso</a>
 + <a href="http://www.linuxuser.co.uk/news/rasplex-plex-on-raspberry-pi-beta-out-now" target="_blank">Linux User</a>
 + <a href="http://korben.info/rasplex.html" target="_blank">Korben</a>
