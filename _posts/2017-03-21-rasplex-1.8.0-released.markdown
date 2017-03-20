@@ -1,0 +1,48 @@
+---
+title: RasPlex 1.8.0 release
+modified: 2017-03-21 20-00-00
+layout: post
+tags: []
+---
+
+# 1.8.0 is Here for Rasplex and OpenPHT!
+
+This release includes fixes and new features for issues reported with the previous releases
+
+New:
+
+- Voice Control (Alexa) support
+- Support server terminated playback
+- Use music metadata from Streaming Brain
+- Only load first 200 items in a photo slideshow
+- Addon repository is refresed on start
+- Non-working Airplay setting is removed from preferences
+- Updates the HIDRemote class to the latest version (thanks @xzcvczx )
+- Update german language file (thanks @Eloo )
+- Option to display server name instead of user name in home listing (thanks @Fmstrat )
+- Updated to ffmpeg 2.8.11
+- Embedded: Upgraded to LibreELEC 8.0 base OS
+- Embedded: Dropped bundled hyperion
+
+Fixes:
+
+- Fixes transcoding issues when using PMS 1.3.x or newer
+- Re-downloads theme music if it failed first time
+- Fixes a crash in search
+- Fixes a crash due to missing openssl locking
+- Fixes a memory leak when using ssa subtitles
+- Fix pin pad alignment in default skin
+
+Downloads:
+
+For Raspberry Pi devices see RasPlex 1.8.0 release post
+https://forums.plex.tv/discussion/264208/release-rasplex-1-8-0/p1
+
+For OpenPHT and OpenPHT embedded releases see OpenPHT 1.8.0 release post
+https://forums.plex.tv/discussion/264209/release-openpht-1-8-0/p1
+
+
+Bugs?
+
+Please report bugs on GitHub, https://github.com/RasPlex/OpenPHT/issues
+
