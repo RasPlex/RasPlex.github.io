@@ -36,13 +36,13 @@ Fixes:
 Downloads:
 
 For Raspberry Pi devices see RasPlex 1.8.0 release post
-https://forums.plex.tv/discussion/264208/release-rasplex-1-8-0/p1
-
+<a href="https://forums.plex.tv/discussion/264208/release-rasplex-1-8-0/p1">https://forums.plex.tv/discussion/264208/release-rasplex-1-8-0/p1</a>
+-
 For OpenPHT and OpenPHT embedded releases see OpenPHT 1.8.0 release post
-https://forums.plex.tv/discussion/264209/release-openpht-1-8-0/p1
+<a href="https://forums.plex.tv/discussion/264209/release-openpht-1-8-0/p1">https://forums.plex.tv/discussion/264209/release-openpht-1-8-0/p1</a>
 
 
 Bugs?
 
-Please report bugs on GitHub, <a href="https://github.com/RasPlex/OpenPHT/issues">here</a>
+Please report bugs on GitHub, <a href="https://github.com/RasPlex/RasPlex/issues">here</a>
 
