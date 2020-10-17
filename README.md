@@ -4,7 +4,7 @@
 
 ## Why Jekyll
 
-The most compelling reason was because it is supported by Github. There are a number of ohter features that were appealing to me though:
+The most compelling reason was because it is supported by Github. There are a number of other features that were appealing to me though:
 
 + Site generator instead of CMS or bloated app.
  + Means that it can literally be hosted anywhere, and be lightning fast.
@@ -17,7 +17,7 @@ My old blog was on wordpress, so I used the Jekyll wordpress importer to scrape 
 
 I used pandoc to clean up the output by converting my HTML to markdown - this actually worked pretty good. 
 
-The biggest problem was that my blog had already been up for a few years and was indexed by google and referenced on a number of places on the internet. I needed to keep my old links from 404ing or else i'd lose all the visibility my blog had gained. This was actually pretty easy - I just used some sed hackery plus the 'jekyll-redirect-from' gem and was able to redirect from pretty much any link that already existed to my blog.
+The biggest problem was that my blog had already been up for a few years and was indexed by google and referenced on a number of places on the internet. I needed to keep my old links from 404ing or else I'd lose all the visibility my blog had gained. This was actually pretty easy - I just used some sed hackery plus the 'jekyll-redirect-from' gem and was able to redirect from pretty much any link that already existed to my blog.
 
 # Auxiliary tools
 
