@@ -9,7 +9,7 @@ permalink: /get-started/download-rasplex.html
 
 # Graphical Unified Installer
 
-**Note**: Try using the <a href="get-started/rasplex-installers.html" target="_blank">graphical installer</a> first.
+**Note**: Try using the <a href="rasplex-installers.html" target="_blank">graphical installer</a> first.
 
 ##  Before you download
 
